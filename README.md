@@ -1,6 +1,6 @@
 # Prompt-to-Prompt-ControlNet
 
-
+![image](/example/图片1.png)
 
 * * *
 
